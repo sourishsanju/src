@@ -49,7 +49,6 @@ install(TARGETS
     ros2_udp
     ros2_walk_example
     ros2_position_example
-    testing_ros2_pkg
     DESTINATION lib/${PROJECT_NAME}
 )
 
